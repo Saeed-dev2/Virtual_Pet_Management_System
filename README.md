@@ -17,7 +17,7 @@ The Virtual Pet Management System is a Python application that allows users to a
 
 ### `Pet`
 
-The base class for all pets. It includes methods for feeding, playing, checking health, and simulating the passage of time.
+The base class for all pets. It includes methods for feeding, playing, checking health, and simulating the passage of the time.
 
 **Attributes:**
 - `name` (str): The name of the pet.
